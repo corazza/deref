@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PrvaZadaca": {
+      "commandName": "Project",
+      "commandLineArgs": "a.json"
+    }
+  }
+}
